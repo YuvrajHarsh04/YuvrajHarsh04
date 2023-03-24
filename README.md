@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **yh6013@srmist.edu.in**
 
-- ⚡ Fun fact **I Play Piano.**
+- ⚡ Fun fact **I Play Piano Check my Instagram for Piano videos.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

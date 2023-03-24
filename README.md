@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yuvraj Harsh</h1>
 <h3 align="center">A passionate Web developer from India</h3>
-<img align = "right" width=400 src="https://tenor.com/view/coding-gif-18657810">
+<img align = "right" width=400 src="[https://tenor.com/view/coding-gif-18657810](https://giphy.com/gifs/gptv-code-coding-hacking-jTNG3RF6EwbkpD4LZx)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvrajharsh04&label=Profile%20views&color=0e75b6&style=flat" alt="yuvrajharsh04" /> </p>
 

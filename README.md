@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yuvraj Harsh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
 <p align="left"> <img src="[https://komarev.com/ghpvc/?username=yuvrajharsh04&label=Profile%20views&color=0e75b6&style=flat](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw27a7nKWg6bOSRg76fiPkH9&ust=1695530200145000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJDK7av0v4EDFQAAAAAdAAAAABAE)" alt="yuvrajharsh04" /> </p>
 
 

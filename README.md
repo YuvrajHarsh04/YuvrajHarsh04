@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" src="https://www.p3multisolutions.com/wp-content/uploads/2018/02/WEB-DEVELOPMENT.gif"/>
+<img align="center" alt="Coding" width="1600" height="480" src="https://www.p3multisolutions.com/wp-content/uploads/2018/02/WEB-DEVELOPMENT.gif"/>
 
 <h1 align="center">Hi 👋, I'm Yuvraj Harsh</h1>
 <h3 align="center">A passionate Web Developer and App Developer</h3>

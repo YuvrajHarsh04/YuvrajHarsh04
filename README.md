@@ -41,4 +41,4 @@
 
 
 
-<img src="https://platane.github.io/snk/" alt="Snake animation" />
+<img src="[https://platane.github.io/snk/](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />

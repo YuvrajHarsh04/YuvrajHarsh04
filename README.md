@@ -38,4 +38,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yuvrajharsh04&" alt="yuvrajharsh04" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvrajharsh04&label=Profile%20views&color=0e75b6&style=flat" alt="yuvrajharsh04" /> </p>
 
-![snake animation](https://github.com/<seu YuvrajHarsh04>/<seu YuvrajHarsh04>/blob/output/github-contribution-grid-snake2.svg)

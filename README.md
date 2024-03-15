@@ -74,7 +74,7 @@
  <br>
  
 
-<div align = "center"><img width= 800 align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=YuvrajHarsh04&theme=dracula)](https://github.com/YuvrajHarsh04/github-readme-activity-graph)" alt="top langs" /></div> 
+<div align = "center" transition = "margin 60s"><img width= 800 align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=YuvrajHarsh04&theme=dracula)](https://github.com/YuvrajHarsh04/github-readme-activity-graph)" alt="top langs" /></div> 
 
 
 <br>

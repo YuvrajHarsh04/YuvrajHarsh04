@@ -1,9 +1,11 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=YuvrajHarsh04.YuvrajHarsh04" />
 
 <br>
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+ I'm+Yuvraj+Harsh!;" />
+<div align="center">
+<h1>
+    <img src="http://readme-typing-svg.herokuapp.com?font=Poppins&size=50&pause=1000&color=9E8EF7&center=true&vCenter=true&random=false&width=500&height=100&lines=Hi+There!+%F0%9F%92%AB;I'm+Yuvraj+Harsh!" />
 </h1>
+</div>
 
 <h3 align="center">A passionate software developer from India </h3>
 

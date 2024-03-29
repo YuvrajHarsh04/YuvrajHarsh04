@@ -76,7 +76,7 @@
  <br>
  
 
-<div align = "center" transition = "margin 60s"><img width= 800 align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=YuvrajHarsh04&theme=dracula)](https://github.com/YuvrajHarsh04/github-readme-activity-graph)" alt="top langs" /></div> 
+<div align = "center" transition = "margin 60s"><img width= 800 align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=yuvrajharsh04&bg_color=000000&color=942192&line=9929bd&point=403d3d&area=true&hide_border=true)](https://github.com/YuvrajHarsh04/github-readme-activity-graph)" alt="top langs" /></div> 
 
 
 <br>
